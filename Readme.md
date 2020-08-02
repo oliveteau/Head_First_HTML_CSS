@@ -2,7 +2,8 @@
 --------------------------------
 
 ## LINK:
-Django tutorial [Source](https://www.amazon.com/Head-First-HTML-CSS-Standards-Based/dp/0596159900 "Just click the link (msg on hover)")
+Resource download: [Source](https://www.wickedlysmart.com/hfhtmlcss/ "Just click the link (msg on hover)")
+From Github: [Source](https://github.com/bethrobson/Head-First-HTML "Just click the link (msg on hover)")
 
 ## SUMMARY:
 Book Description
@@ -69,18 +70,18 @@ Safari&#174; Books Online
 - [x] Cruisin’ with style...
 
 ### 2. Going Further with Hypertext: Meeting the “HT” in HTML
-- [ ] Head First Lounge, new and improved
-- [ ] Creating the new lounge
-- [ ] What did we do?
-- [ ] What does the browser do?
-- [ ] Understanding attributes
-- [ ] Getting organized
-- [ ] Organizing the lounge...
-- [ ] Technical difficulties
-- [ ] Planning your paths...
-- [ ] Fixing those broken images...
-- [ ] Finding the path from “lounge.html” to “drinks.gif”
-- [ ] Finding the path from “elixir.html” to “red.jpg”
+- [x] Head First Lounge, new and improved
+- [x] Creating the new lounge
+- [x] What did we do?
+- [x] What does the browser do?
+- [x] Understanding attributes
+- [x] Getting organized
+- [x] Organizing the lounge...
+- [x] Technical difficulties
+- [x] Planning your paths...
+- [x] Fixing those broken images...
+- [x] Finding the path from “lounge.html” to “drinks.gif”
+- [x] Finding the path from “elixir.html” to “red.jpg”
 
 ### 3. Building Blocks: Web Page Construction
 - [ ] From journal to website, at 12 mph
