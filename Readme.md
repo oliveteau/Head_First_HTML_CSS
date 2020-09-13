@@ -84,26 +84,26 @@ Safari&#174; Books Online
 - [x] Finding the path from “elixir.html” to “red.jpg”
 
 ### 3. Building Blocks: Web Page Construction
-- [ ] From journal to website, at 12 mph
-- [ ] The rough design sketch
-- [ ] From a sketch to an outline
-- [ ] From the outline to a web page
-- [ ] Test driving Tony’s web page
-- [ ] Adding some new elements
-- [ ] Meet the \<q> element
-- [ ] And test drive
-- [ ] Looooong quotes
-- [ ] Adding a \<blockquote>
-- [ ] The real truth behind the \<q> and \<blockquote> mystery
-- [ ] Meanwhile, back at Tony’s site...
-- [ ] Of course, you could use the \<p> element to make a list... use the \<p> element to make a list...
-- [ ] But there are lots of reasons not to
-- [ ] Constructing HTML lists in two easy steps
-- [ ] Taking a test drive through the cities
-- [ ] Putting one element inside another is called “nesting”
-- [ ] To understand the nesting relationships, draw a picture
-- [ ] Using nesting to make sure your tags match
-- [ ] So what?
+- [x] From journal to website, at 12 mph
+- [x] The rough design sketch
+- [x] From a sketch to an outline
+- [x] From the outline to a web page
+- [x] Test driving Tony’s web page
+- [x] Adding some new elements
+- [x] Meet the \<q> element
+- [x] And test drive
+- [x] Looooong quotes
+- [x] Adding a \<blockquote>
+- [x] The real truth behind the \<q> and \<blockquote> mystery
+- [x] Meanwhile, back at Tony’s site...
+- [x] Of course, you could use the \<p> element to make a list... use the \<p> element to make a list...
+- [x] But there are lots of reasons not to
+- [x] Constructing HTML lists in two easy steps
+- [x] Taking a test drive through the cities
+- [x] Putting one element inside another is called “nesting”
+- [x] To understand the nesting relationships, draw a picture
+- [x] Using nesting to make sure your tags match
+- [x] So what?
   
 ### 4. Getting Connected: A Trip to Webville
 Getting Starbuzz (or yourself) onto the Web
