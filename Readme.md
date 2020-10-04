@@ -106,73 +106,73 @@ Safari&#174; Books Online
 - [x] So what?
   
 ### 4. Getting Connected: A Trip to Webville
-Getting Starbuzz (or yourself) onto the Web
-Finding a hosting company
-HELLO, my domain name is...
-How can you get a domain name?
-Moving in
-Getting your files to the root folder
-As much FTP as you can possibly fit in two pages
-Back to business...
-Mainstreet, USA URL
-What is HTTP?
-What’s an absolute path?
-How default pages work
-How do we link to other websites?
-Linking to Caffeine Buzz
-And now for the test drive...
-Web page fit and finish
-Improving accessibility by adding a title to your links
-The title test drive...
-Linking into a page
-Using the id attribute to create a destination for <a>
-How to link to elements with ids
-Finding the destination heading
-Now that you’ve got your hands on their HTML...
-Reworking the link in “index.html”
-Linking to a new window
-Opening a new window using target
+- [x] Getting Starbuzz (or yourself) onto the Web
+- [x] Finding a hosting company
+- [x] HELLO, my domain name is...
+- [x] How can you get a domain name?
+- [x] Moving in
+- [x] Getting your files to the root folder
+- [x] As much FTP as you can possibly fit in two pages
+- [x] Back to business...
+- [x] Mainstreet, USA URL
+- [x] What is HTTP?
+- [x] What’s an absolute path?
+- [x] How default pages work
+- [x] How do we link to other websites?
+- [x] Linking to Caffeine Buzz
+- [x] And now for the test drive...
+- [x] Web page fit and finish
+- [x] Improving accessibility by adding a title to your links
+- [x] The title test drive...
+- [x] Linking into a page
+- [x] Using the id attribute to create a destination for <a>
+- [x] How to link to elements with ids
+- [x] Finding the destination heading
+- [x] Now that you’ve got your hands on their HTML...
+- [x] Reworking the link in “index.html”
+- [x] Linking to a new window
+- [x] Opening a new window using target
 
 ### 5. Adding Images to your Pages: Meeting the Media
-How the browser works with images
-How images work
-So, what are the differences among JPEG, PNG, and GIF?
-<img>: it’s not just relative links anymore
-Always provide an alternative
-Sizing up your images
-Creating the ultimate fan site: myPod
-Check out myPod’s “index.html” file
-Whoa! The image is way too large
-Resize the image to fit in the browser
-Here’s what you’re going to do:
-Open the image
-Resizing the image
-You’ve resized—now save
-Save the image
-Fixing up the myPod HTML
-And now for the test drive...
-More photos for myPod
-Taking myPod for another test drive
-Reworking the site to use thumbnails
-Create a new directory for thumbnails
-Create the thumbnails
-Rework the HTML to use the thumbnails
-Take myPod for another test drive
-Turning the thumbnails into links
-Create individual pages for the photos
-So, how do I make links out of images?
-Add the image links to “index.html”
-Open the myPod logo
-A closer look...
-What format should we use?
-To be transparent, or not to be transparent? That is the question...
-Save the transparent PNG
-Wait, what is the color of the web page background?
-Set the matte color
-Check out the logo with a matte
-Save the logo
-Add the logo to the myPod web page
-And now for the final test drive
+- [ ]How the browser works with images
+- [ ]How images work
+- [ ]So, what are the differences among JPEG, PNG, and GIF?
+- [ ]<img>: it’s not just relative links anymore
+- [ ]Always provide an alternative
+- [ ]Sizing up your images
+- [ ]Creating the ultimate fan site: myPod
+- [ ]Check out myPod’s “index.html” file
+- [ ]Whoa! The image is way too large
+- [ ]Resize the image to fit in the browser
+- [ ]Here’s what you’re going to do:
+- [ ]Open the image
+- [ ]Resizing the image
+- [ ]You’ve resized—now save
+- [ ]Save the image
+- [ ]Fixing up the myPod HTML
+- [ ]And now for the test drive...
+- [ ]More photos for myPod
+- [ ]Taking myPod for another test drive
+- [ ]Reworking the site to use thumbnails
+- [ ]Create a new directory for thumbnails
+- [ ]Create the thumbnails
+- [ ]Rework the HTML to use the thumbnails
+- [ ]Take myPod for another test drive
+- [ ]Turning the thumbnails into links
+- [ ]Create individual pages for the photos
+- [ ]So, how do I make links out of images?
+- [ ]Add the image links to “index.html”
+- [ ]Open the myPod logo
+- [ ]A closer look...
+- [ ]What format should we use?
+- [ ]To be transparent, or not to be transparent? That is the question...
+- [ ]Save the transparent PNG
+- [ ]Wait, what is the color of the web page background?
+- [ ]Set the matte color
+- [ ]Check out the logo with a matte
+- [ ]Save the logo
+- [ ]Add the logo to the myPod web page
+- [ ]And now for the final test drive
 
 ### 6. Standards and All that Jazz: Getting Serious with HTML
 A Brief History of HTML
