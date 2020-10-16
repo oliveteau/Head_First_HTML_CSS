@@ -134,45 +134,45 @@ Safari&#174; Books Online
 - [x] Opening a new window using target
 
 ### 5. Adding Images to your Pages: Meeting the Media
-- [ ]How the browser works with images
-- [ ]How images work
-- [ ]So, what are the differences among JPEG, PNG, and GIF?
-- [ ]<img>: it’s not just relative links anymore
-- [ ]Always provide an alternative
-- [ ]Sizing up your images
-- [ ]Creating the ultimate fan site: myPod
-- [ ]Check out myPod’s “index.html” file
-- [ ]Whoa! The image is way too large
-- [ ]Resize the image to fit in the browser
-- [ ]Here’s what you’re going to do:
-- [ ]Open the image
-- [ ]Resizing the image
-- [ ]You’ve resized—now save
-- [ ]Save the image
-- [ ]Fixing up the myPod HTML
-- [ ]And now for the test drive...
-- [ ]More photos for myPod
-- [ ]Taking myPod for another test drive
-- [ ]Reworking the site to use thumbnails
-- [ ]Create a new directory for thumbnails
-- [ ]Create the thumbnails
-- [ ]Rework the HTML to use the thumbnails
-- [ ]Take myPod for another test drive
-- [ ]Turning the thumbnails into links
-- [ ]Create individual pages for the photos
-- [ ]So, how do I make links out of images?
-- [ ]Add the image links to “index.html”
-- [ ]Open the myPod logo
-- [ ]A closer look...
-- [ ]What format should we use?
-- [ ]To be transparent, or not to be transparent? That is the question...
-- [ ]Save the transparent PNG
-- [ ]Wait, what is the color of the web page background?
-- [ ]Set the matte color
-- [ ]Check out the logo with a matte
-- [ ]Save the logo
-- [ ]Add the logo to the myPod web page
-- [ ]And now for the final test drive
+- [x] How the browser works with images
+- [x] How images work
+- [x] So, what are the differences among JPEG, PNG, and GIF?
+- [x] <img>: it’s not just relative links anymore
+- [x] Always provide an alternative
+- [x] Sizing up your images
+- [x] Creating the ultimate fan site: myPod
+- [x] Check out myPod’s “index.html” file
+- [x] Whoa! The image is way too large
+- [x] Resize the image to fit in the browser
+- [x] Here’s what you’re going to do:
+- [x] Open the image
+- [x] Resizing the image
+- [x] You’ve resized—now save
+- [x] Save the image
+- [x] Fixing up the myPod HTML
+- [x] And now for the test drive...
+- [x] More photos for myPod
+- [x] Taking myPod for another test drive
+- [x] Reworking the site to use thumbnails
+- [x] Create a new directory for thumbnails
+- [x] Create the thumbnails
+- [x] Rework the HTML to use the thumbnails
+- [x] Take myPod for another test drive
+- [x] Turning the thumbnails into links
+- [x] Create individual pages for the photos
+- [x] So, how do I make links out of images?
+- [x] Add the image links to “index.html”
+- [x] Open the myPod logo
+- [x] A closer look...
+- [x] What format should we use?
+- [x] To be transparent, or not to be transparent? That is the question...
+- [x] Save the transparent PNG
+- [x] Wait, what is the color of the web page background?
+- [x] Set the matte color
+- [x] Check out the logo with a matte
+- [x] Save the logo
+- [x] Add the logo to the myPod web page
+- [x] And now for the final test drive
 
 ### 6. Standards and All that Jazz: Getting Serious with HTML
 A Brief History of HTML
