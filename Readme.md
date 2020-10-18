@@ -175,59 +175,59 @@ Safari&#174; Books Online
 - [x] And now for the final test drive
 
 ### 6. Standards and All that Jazz: Getting Serious with HTML
-A Brief History of HTML
-The new, and improved, HTML5 doctype
-HTML, the new “living standard”
-Adding the document type definition
-The doctype test drive
-Meet the W3C validator
-Validating the Head First Lounge
-Houston, we have a problem...
-Fixing that error
-We’re almost there...
-Adding a meta tag to specify the character encoding
-Making the validator (and more than a few browsers) happy with a <meta> tag...
-Third time’s the charm?
-Calling all HTML professionals, grab the handbook...
+- [x] A Brief History of HTML
+- [x] The new, and improved, HTML5 doctype
+- [x] HTML, the new “living standard”
+- [x] Adding the document type definition
+- [x] The doctype test drive
+- [x] Meet the W3C validator
+- [x] Validating the Head First Lounge
+- [x] Houston, we have a problem...
+- [x] Fixing that error
+- [x] We’re almost there...
+- [x] Adding a meta tag to specify the character encoding
+- [x] Making the validator (and more than a few browsers) happy with a <meta> tag...
+- [x] Third time’s the charm?
+- [ ] Calling all HTML professionals, grab the handbook...
 
 ### 7. Getting Started with CSS: Adding a Little Style
-You’re not in Kansas anymore
-Overheard on Webville’s “Trading Spaces”
-Using CSS with HTML
-Wanna add more style?
-Getting CSS into your HTML
-Adding style to the lounge
-Cruising with style: the test drive
-Style the heading
-Test drive...
-Let’s put a line under the welcome message too
-We have the technology: specifying a second rule, just for the h1
-Another test drive...
-So, how do selectors really work?
-Seeing selectors visually
-Getting the lounge style into the elixirs and directions pages
-Creating the “lounge.css” file
-Linking from “lounge.html” to the external stylesheet
-Linking from “elixir.html” and “directions.html” to the external stylesheet
-Test driving the entire lounge...
-It’s time to talk about your inheritance...
-The elements inside the <p> element inherit the font-family style from &lt;p&gt; the font-family style from <p>
-What if we move the font up the family tree?
-What are you waiting for...give it a try
-Test drive your new CSS
-Overriding inheritance
-Test drive
-Adding an element to the greentea class
-Creating a class selector
-A greentea test drive
-Taking classes further...
-The world’s smallest and fastest guide to how styles are applied
-First, do any selectors select your element?
-What about inheritance?
-Struck out again? Then use the default
-What if multiple selectors select an element?
-And if we still don’t have a clear winner?
-Making sure the lounge CSS validates
+- [ ] You’re not in Kansas anymore
+- [ ] Overheard on Webville’s “Trading Spaces”
+- [ ] Using CSS with HTML
+- [ ] Wanna add more style?
+- [ ] Getting CSS into your HTML
+- [ ] Adding style to the lounge
+- [ ] Cruising with style: the test drive
+- [ ] Style the heading
+- [ ] Test drive...
+- [ ] Let’s put a line under the welcome message too
+- [ ] We have the technology: specifying a second rule, just for the h1
+- [ ] Another test drive...
+- [ ] So, how do selectors really work?
+- [ ] Seeing selectors visually
+- [ ] Getting the lounge style into the elixirs and directions pages
+- [ ] Creating the “lounge.css” file
+- [ ] Linking from “lounge.html” to the external stylesheet
+- [ ] Linking from “elixir.html” and “directions.html” to the external stylesheet
+- [ ] Test driving the entire lounge...
+- [ ] It’s time to talk about your inheritance...
+- [ ] The elements inside the <p> element inherit the font-family style from &lt;p&gt; the font-family style from <p>
+- [ ] What if we move the font up the family tree?
+- [ ] What are you waiting for...give it a try
+- [ ] Test drive your new CSS
+- [ ] Overriding inheritance
+- [ ] Test drive
+- [ ] Adding an element to the greentea class
+- [ ] Creating a class selector
+- [ ] A greentea test drive
+- [ ] Taking classes further...
+- [ ] The world’s smallest and fastest guide to how styles are applied
+- [ ] First, do any selectors select your element?
+- [ ] What about inheritance?
+- [ ] Struck out again? Then use the default
+- [ ] What if multiple selectors select an element?
+- [ ] And if we still don’t have a clear winner?
+- [ ] Making sure the lounge CSS validates
 
 ### 8. Styling with Fonts and Colors: Expanding Your Vocabulary
 Text and fonts from 30,000 feet
