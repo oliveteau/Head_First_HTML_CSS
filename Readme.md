@@ -188,85 +188,85 @@ Safari&#174; Books Online
 - [x] Adding a meta tag to specify the character encoding
 - [x] Making the validator (and more than a few browsers) happy with a <meta> tag...
 - [x] Third time’s the charm?
-- [ ] Calling all HTML professionals, grab the handbook...
+- [x] Calling all HTML professionals, grab the handbook...
 
 ### 7. Getting Started with CSS: Adding a Little Style
-- [ ] You’re not in Kansas anymore
-- [ ] Overheard on Webville’s “Trading Spaces”
-- [ ] Using CSS with HTML
-- [ ] Wanna add more style?
-- [ ] Getting CSS into your HTML
-- [ ] Adding style to the lounge
-- [ ] Cruising with style: the test drive
-- [ ] Style the heading
-- [ ] Test drive...
-- [ ] Let’s put a line under the welcome message too
-- [ ] We have the technology: specifying a second rule, just for the h1
-- [ ] Another test drive...
-- [ ] So, how do selectors really work?
-- [ ] Seeing selectors visually
-- [ ] Getting the lounge style into the elixirs and directions pages
-- [ ] Creating the “lounge.css” file
-- [ ] Linking from “lounge.html” to the external stylesheet
-- [ ] Linking from “elixir.html” and “directions.html” to the external stylesheet
-- [ ] Test driving the entire lounge...
-- [ ] It’s time to talk about your inheritance...
-- [ ] The elements inside the <p> element inherit the font-family style from &lt;p&gt; the font-family style from <p>
-- [ ] What if we move the font up the family tree?
-- [ ] What are you waiting for...give it a try
-- [ ] Test drive your new CSS
-- [ ] Overriding inheritance
-- [ ] Test drive
-- [ ] Adding an element to the greentea class
-- [ ] Creating a class selector
-- [ ] A greentea test drive
-- [ ] Taking classes further...
-- [ ] The world’s smallest and fastest guide to how styles are applied
-- [ ] First, do any selectors select your element?
-- [ ] What about inheritance?
-- [ ] Struck out again? Then use the default
-- [ ] What if multiple selectors select an element?
-- [ ] And if we still don’t have a clear winner?
+- [x] You’re not in Kansas anymore
+- [x] Overheard on Webville’s “Trading Spaces”
+- [x] Using CSS with HTML
+- [x] Wanna add more style?
+- [x] Getting CSS into your HTML
+- [x] Adding style to the lounge
+- [x] Cruising with style: the test drive
+- [x] Style the heading
+- [x] Test drive...
+- [x] Let’s put a line under the welcome message too
+- [x] We have the technology: specifying a second rule, just for the h1
+- [x] Another test drive...
+- [x] So, how do selectors really work?
+- [x] Seeing selectors visually
+- [x] Getting the lounge style into the elixirs and directions pages
+- [x] Creating the “lounge.css” file
+- [x] Linking from “lounge.html” to the external stylesheet
+- [x] Linking from “elixir.html” and “directions.html” to the external stylesheet
+- [x] Test driving the entire lounge...
+- [x] It’s time to talk about your inheritance...
+- [x] The elements inside the <p> element inherit the font-family style from &lt;p&gt; the font-family style from <p>
+- [x] What if we move the font up the family tree?
+- [x] What are you waiting for...give it a try
+- [x] Test drive your new CSS
+- [x] Overriding inheritance
+- [x] Test drive
+- [x] Adding an element to the greentea class
+- [x] Creating a class selector
+- [x] A greentea test drive
+- [x] Taking classes further...
+- [x] The world’s smallest and fastest guide to how styles are applied
+- [x] First, do any selectors select your element?
+- [x] What about inheritance?
+- [x] Struck out again? Then use the default
+- [x] What if multiple selectors select an element?
+- [x] And if we still don’t have a clear winner?
 - [ ] Making sure the lounge CSS validates
 
 ### 8. Styling with Fonts and Colors: Expanding Your Vocabulary
-Text and fonts from 30,000 feet
-What is a font family anyway?
-Specifying font families using CSS
-How font-family specifications work
-Dusting off Tony’s journal
-Getting Tony a new font-family
-Test driving Tony’s new fonts
-How do I deal with everyone having different fonts?
-How Web Fonts work
-How to add a Web Font to your page...
-Step one: Find a font
-Step two: Make sure you have all the formats of the font you need
-Step three: Place your font files on the Web
-Step 4: Add the @font-face property to your CSS
-Step five: Use the font-family name in your CSS
-Step six: Load the page!
-Test drive the Web Font in Tony’s journal
-Adjusting font sizes
-So, how should I specify my font sizes?
-Let’s make these changes to the font sizes in Tony’s web page
-Test driving the font sizes
-Changing a font’s weight
-Test drive the normal-weight headings
-Adding style to your fonts
-Styling Tony’s quotes with a little italic
-How do web colors work?
-How do I specify web colors? Let me count the ways...
-Specify color by name
-Specify color in red, green, and blue values
-Specify color using hex codes
-The two-minute guide to hex codes
-How to find web colors
-Using an online color chart
-Back to Tony’s page...we’re going to make the headings orange, and add an underline too
-Test drive Tony’s orange headings
-Everything you ever wanted to know about text decorations in less than one page
-Removing the underline...
+- [ ] Text and fonts from 30,000 feet
+- [ ] What is a font family anyway?
+- [ ] Specifying font families using CSS
+- [ ] How font-family specifications work
+- [ ] Dusting off Tony’s journal
+- [ ] Getting Tony a new font-family
+- [ ] Test driving Tony’s new fonts
+- [ ] How do I deal with everyone having different fonts?
+- [ ] How Web Fonts work
+- [ ] How to add a Web Font to your page...
+- [ ] Step one: Find a font
+- [ ] Step two: Make sure you have all the formats of the font you need
+- [ ] Step three: Place your font files on the Web
+- [ ] Step 4: Add the @font-face property to your CSS
+- [ ] Step five: Use the font-family name in your CSS
+- [ ] Step six: Load the page!
+- [ ] Test drive the Web Font in Tony’s journal
+- [ ] Adjusting font sizes
+- [ ] So, how should I specify my font sizes?
+- [ ] Let’s make these changes to the font sizes in Tony’s web page
+- [ ] Test driving the font sizes
+- [ ] Changing a font’s weight
+- [ ] Test drive the normal-weight headings
+- [ ] Adding style to your fonts
+- [ ] Styling Tony’s quotes with a little italic
+- [ ] How do web colors work?
+- [ ] How do I specify web colors? Let me count the ways...
+- [ ] Specify color by name
+- [ ] Specify color in red, green, and blue values
+- [ ] Specify color using hex codes
+- [ ] The two-minute guide to hex codes
+- [ ] How to find web colors
+- [ ] Using an online color chart
+- [ ] Back to Tony’s page...we’re going to make the headings orange, and add an underline too
+- [ ] Test drive Tony’s orange headings
+- [ ] Everything you ever wanted to know about text decorations in less than one page
+- [ ] Removing the underline...
 
 ### 9. The Box Model: Getting Intimate with Elements
 The lounge gets an upgrade
