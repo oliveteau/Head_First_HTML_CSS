@@ -230,84 +230,84 @@ Safari&#174; Books Online
 - [ ] Making sure the lounge CSS validates
 
 ### 8. Styling with Fonts and Colors: Expanding Your Vocabulary
-- [ ] Text and fonts from 30,000 feet
-- [ ] What is a font family anyway?
-- [ ] Specifying font families using CSS
-- [ ] How font-family specifications work
-- [ ] Dusting off Tony’s journal
-- [ ] Getting Tony a new font-family
-- [ ] Test driving Tony’s new fonts
-- [ ] How do I deal with everyone having different fonts?
-- [ ] How Web Fonts work
-- [ ] How to add a Web Font to your page...
-- [ ] Step one: Find a font
-- [ ] Step two: Make sure you have all the formats of the font you need
-- [ ] Step three: Place your font files on the Web
-- [ ] Step 4: Add the @font-face property to your CSS
-- [ ] Step five: Use the font-family name in your CSS
-- [ ] Step six: Load the page!
-- [ ] Test drive the Web Font in Tony’s journal
-- [ ] Adjusting font sizes
-- [ ] So, how should I specify my font sizes?
-- [ ] Let’s make these changes to the font sizes in Tony’s web page
-- [ ] Test driving the font sizes
-- [ ] Changing a font’s weight
-- [ ] Test drive the normal-weight headings
-- [ ] Adding style to your fonts
-- [ ] Styling Tony’s quotes with a little italic
-- [ ] How do web colors work?
-- [ ] How do I specify web colors? Let me count the ways...
-- [ ] Specify color by name
-- [ ] Specify color in red, green, and blue values
-- [ ] Specify color using hex codes
-- [ ] The two-minute guide to hex codes
-- [ ] How to find web colors
-- [ ] Using an online color chart
-- [ ] Back to Tony’s page...we’re going to make the headings orange, and add an underline too
-- [ ] Test drive Tony’s orange headings
-- [ ] Everything you ever wanted to know about text decorations in less than one page
-- [ ] Removing the underline...
+- [x] Text and fonts from 30,000 feet
+- [x] What is a font family anyway?
+- [x] Specifying font families using CSS
+- [x] How font-family specifications work
+- [x] Dusting off Tony’s journal
+- [x] Getting Tony a new font-family
+- [x] Test driving Tony’s new fonts
+- [x] How do I deal with everyone having different fonts?
+- [x] How Web Fonts work
+- [x] How to add a Web Font to your page...
+- [x] Step one: Find a font
+- [x] Step two: Make sure you have all the formats of the font you need
+- [x] Step three: Place your font files on the Web
+- [x] Step 4: Add the @font-face property to your CSS
+- [x] Step five: Use the font-family name in your CSS
+- [x] Step six: Load the page!
+- [x] Test drive the Web Font in Tony’s journal
+- [x] Adjusting font sizes
+- [x] So, how should I specify my font sizes?
+- [x] Let’s make these changes to the font sizes in Tony’s web page
+- [x] Test driving the font sizes
+- [x] Changing a font’s weight
+- [x] Test drive the normal-weight headings
+- [x] Adding style to your fonts
+- [x] Styling Tony’s quotes with a little italic
+- [x] How do web colors work?
+- [x] How do I specify web colors? Let me count the ways...
+- [x] Specify color by name
+- [x] Specify color in red, green, and blue values
+- [x] Specify color using hex codes
+- [x] The two-minute guide to hex codes
+- [x] How to find web colors
+- [x] Using an online color chart
+- [x] Back to Tony’s page...we’re going to make the headings orange, and add an underline too
+- [x] Test drive Tony’s orange headings
+- [x] Everything you ever wanted to know about text decorations in less than one page
+- [x] Removing the underline...
 
 ### 9. The Box Model: Getting Intimate with Elements
-The lounge gets an upgrade
-The new and improved, ultra-stylish lounge
-Setting up the new lounge
-Starting with a few simple upgrades
-A very quick test drive
-One more adjustment
-Checking out the new line height
-Getting ready for some major renovations
-A closer look at the box model
-What you can do to boxes
-Meanwhile, back at the lounge...
-Creating the guarantee style
-A test drive of the paragraph border
-Padding, border, and margins for the guarantee
-Adding some padding
-A test drive with some padding
-Now let’s add some margin
-A test drive with the margin
-Adding a background image
-Test driving the background image
-Fixing the background image
-Another test drive of the background image
-How do you add padding only on the left?
-Are we there yet?
-How do you increase the margin just on the right?
-A two-minute guide to borders
-Border fit and finish
-Congratulations!
-Welcome back, and good timing. We’re just about to listen in on an interview with a class...
-The id attribute
-But how do I use id in CSS?
-Using an id in the lounge
-Step one: Change the class attribute to an id in your “lounge.html” file
-Step two: Change the “.guarantee” class selector in “lounge.css” to an id selector
-Step three: Save your changes and reload the page
-Remixing stylesheets
-Using multiple stylesheets
-Stylesheets—they’re not just for desktop browsers anymore...
-Add media queries right into your CSS
+- [x] The lounge gets an upgrade
+- [x] The new and improved, ultra-stylish lounge
+- [x] Setting up the new lounge
+- [x] Starting with a few simple upgrades
+- [x] A very quick test drive
+- [x] One more adjustment
+- [x] Checking out the new line height
+- [x] Getting ready for some major renovations
+- [x] A closer look at the box model
+- [x] What you can do to boxes
+- [x] Meanwhile, back at the lounge...
+- [x] Creating the guarantee style
+- [x] A test drive of the paragraph border
+- [x] Padding, border, and margins for the guarantee
+- [x] Adding some padding
+- [x] A test drive with some padding
+- [x] Now let’s add some margin
+- [x] A test drive with the margin
+- [x] Adding a background image
+- [x] Test driving the background image
+- [x] Fixing the background image
+- [x] Another test drive of the background image
+- [x] How do you add padding only on the left?
+- [x] Are we there yet?
+- [x] How do you increase the margin just on the right?
+- [x] A two-minute guide to borders
+- [x] Border fit and finish
+- [x] Congratulations!
+- [x] Welcome back, and good timing. We’re just about to listen in on an interview with a class...
+- [x] The id attribute
+- [x] But how do I use id in CSS?
+- [x] Using an id in the lounge
+- [x] Step one: Change the class attribute to an id in your “lounge.html” file
+- [x] Step two: Change the “.guarantee” class selector in “lounge.css” to an id selector
+- [x] Step three: Save your changes and reload the page
+- [x] Remixing stylesheets
+- [x] Using multiple stylesheets
+- [x] Stylesheets—they’re not just for desktop browsers anymore...
+- [x] Add media queries right into your CSS
 
 ### 10. Divs and Spans: Advanced Web Construction
 A close look at the elixirs HTML

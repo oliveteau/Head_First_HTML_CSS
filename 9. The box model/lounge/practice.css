@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: small;
+    line-height: 1.6em;
+    border-bottom: thin dotted;
+    
+}
+
+
+h1 {
+    font-size: 200%;
+    border-bottom: thin dotted;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+h3 {
+    font-size: 130%;
+
+}
+
+.pastpractice {
+    color: #FF3756;
+}
+
+/* p.pastpractice {
+    color: blue;
+} */
+
+
