@@ -310,49 +310,49 @@ Safari&#174; Books Online
 - [x] Add media queries right into your CSS
 
 ### 10. Divs and Spans: Advanced Web Construction
-A close look at the elixirs HTML
-Let’s explore how we can divide a page into logical sections
-Identifying your logical sections
-Using <div>s to mark sections
-Labeling the <div>s
-Adding some style
-Exposing even more structure
-Adding structure on structure
-Meanwhile, back at the lounge...
-Taking the <div> for a test drive
-Adding a border
-An over-the-border test drive
-Adding some real style to the elixirs section
-The game plan
-Working on the elixir width
-Test driving the width
-Adding the basic styles to the elixirs
-Test driving the new styles
-We’re almost there...
-What are we trying to do?
-What we have now
-What we want
-What we need is a way to select descendants
-Changing the color of the elixir headings
-A quick test drive...
-Fixing the line height
-Look what you’ve accomplished...
-It’s time to take a little shortcut
-But there’s more...
-...and don’t forget the shorthand for backgrounds
-And even more shorthands
-Adding <span>s in three easy steps
-Steps one and two: Adding the <span>s
-Step three: Styling the <span>s
-Test driving the spans
-The <a> element and its multiple personalities
-How can you style elements based on their state?
-Putting those pseudo-classes to work
-Test drive the links
-Isn’t it about time we talk about the “cascade”?
-The cascade
-Welcome to the “What’s my specificity?” game
-Putting it all together
+- [x] A close look at the elixirs HTML
+- [x] Let’s explore how we can divide a page into logical sections
+- [x] Identifying your logical sections
+- [x] Using <div>s to mark sections
+- [x] Labeling the <div>s
+- [x] Adding some style
+- [x] Exposing even more structure
+- [x] Adding structure on structure
+- [x] Meanwhile, back at the lounge...
+- [x] Taking the <div> for a test drive
+- [x] Adding a border
+- [x] An over-the-border test drive
+- [x] Adding some real style to the elixirs section
+- [x] The game plan
+- [x] Working on the elixir width
+- [x] Test driving the width
+- [x] Adding the basic styles to the elixirs
+- [x] Test driving the new styles
+- [x] We’re almost there...
+- [x] What are we trying to do?
+- [x] What we have now
+- [x] What we want
+- [x] What we need is a way to select descendants
+- [x] Changing the color of the elixir headings
+- [x] A quick test drive...
+- [x] Fixing the line height
+- [x] Look what you’ve accomplished...
+- [x] It’s time to take a little shortcut
+- [x] But there’s more...
+- [x] ...and don’t forget the shorthand for backgrounds
+- [x] And even more shorthands
+- [x] Adding <span>s in three easy steps
+- [x] Steps one and two: Adding the <span>s
+- [x] Step three: Styling the <span>s
+- [x] Test driving the spans
+- [x] The <a> element and its multiple personalities
+- [x] How can you style elements based on their state?
+- [x] Putting those pseudo-classes to work
+- [x] Test drive the links
+- [x] Isn’t it about time we talk about the “cascade”?
+- [x] The cascade
+- [x] Welcome to the “What’s my specificity?” game
+- [x] Putting it all together
 
 ### 11. Layout and Positioning: Arranging Elements
 Did you do the Super Brain Power?
