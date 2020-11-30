@@ -355,75 +355,75 @@ Safari&#174; Books Online
 - [x] Putting it all together
 
 ### 11. Layout and Positioning: Arranging Elements
-Did you do the Super Brain Power?
-Use the Flow, Luke
-What about inline elements?
-How it all works together
-One more thing you should know about flow and boxes
-When the browser is placing two inline elements next to each other...
-When the browser is placing two block elements on top of each other...
-How to float an element
-First, give it an identity
-Now give it a width
-Now float it
-Behind the scenes at the lounge
-The new Starbuzz
-A look at the markup
-And a look at the style
-Let’s take Starbuzz to the next level
-Move the sidebar just below the header
-Set the width of the sidebar and float it
-Test driving Starbuzz
-Fixing the two-column problem
-Setting the margin on the main section
-Test drive
-Uh oh, we have another problem
-Solving the overlap problem
-Test drive
-Righty tighty, lefty loosey
-Step one: Start with the sidebar
-Step two: Take care of the main content
-Step three: Take care of the footer
-A quick test drive
-Liquid and frozen designs
-HTML changes
-CSS changes
-A frozen test drive
-What’s the state between liquid and frozen? Jello, of course!
-Test driving with a tank of jello
-How absolute positioning works
-What the CSS does
-Another example of absolute positioning
-Who’s on top?
-Using absolute positioning
-Changing the Starbuzz CSS
-Now we just need to rework the main <div>
-Time for the absolute test drive
-How CSS table display works
-How to create the CSS and HTML for a table display
-Adding HTML structure for the table display
-How to use CSS to create table displays
-Meanwhile, back at Starbuzz...
-A quick test drive...
-What’s the problem with the spacing?
-Fix the spacing
-A final test drive of our table display
-Strategies for your CSS layout toolbox
-The Floating Layout
-The Jello Layout
-The Absolute Layout
-The Table Display Layout
-Problems with the header
-Fixing the header images with float
-Test drive your float
-How float works in the header
-Adding the award
-Positioning the award
-How does fixed positioning work?
-Putting the coupon on the page
-Putting the coupon on the page
-Using a negative left property value
-A rather positive, negative test drive
+- [x] Did you do the Super Brain Power?
+- [x] Use the Flow, Luke
+- [x] What about inline elements?
+- [x] How it all works together
+- [x] One more thing you should know about flow and boxes
+- [x] When the browser is placing two inline elements next to each other...
+- [x] When the browser is placing two block elements on top of each other...
+- [x] How to float an element
+- [x] First, give it an identity
+- [x] Now give it a width
+- [x] Now float it
+- [x] Behind the scenes at the lounge
+- [x] The new Starbuzz
+- [x] A look at the markup
+- [x] And a look at the style
+- [x] Let’s take Starbuzz to the next level
+- [x] Move the sidebar just below the header
+- [x] Set the width of the sidebar and float it
+- [x] Test driving Starbuzz
+- [x] Fixing the two-column problem
+- [x] Setting the margin on the main section
+- [x] Test drive
+- [x] Uh oh, we have another problem
+- [x] Solving the overlap problem
+- [x] Test drive
+- [x] Righty tighty, lefty loosey
+- [x] Step one: Start with the sidebar
+- [x] Step two: Take care of the main content
+- [x] Step three: Take care of the footer
+- [x] A quick test drive
+- [x] Liquid and frozen designs
+- [x] HTML changes
+- [x] CSS changes
+- [x] A frozen test drive
+- [x] What’s the state between liquid and frozen? Jello, of course!
+- [x] Test driving with a tank of jello
+- [x] How absolute positioning works
+- [x] What the CSS does
+- [x] Another example of absolute positioning
+- [x] Who’s on top?
+- [x] Using absolute positioning
+- [x] Changing the Starbuzz CSS
+- [x] Now we just need to rework the main <div>
+- [x] Time for the absolute test drive
+- [x] How CSS table display works
+- [x] How to create the CSS and HTML for a table display
+- [x] Adding HTML structure for the table display
+- [x] How to use CSS to create table displays
+- [x] Meanwhile, back at Starbuzz...
+- [x] A quick test drive...
+- [x] What’s the problem with the spacing?
+- [x] Fix the spacing
+- [x] A final test drive of our table display
+- [x] Strategies for your CSS layout toolbox
+- [x] The Floating Layout
+- [x] The Jello Layout
+- [x] The Absolute Layout
+- [x] The Table Display Layout
+- [x] Problems with the header
+- [x] Fixing the header images with float
+- [x] Test drive your float
+- [x] How float works in the header
+- [x] Adding the award
+- [x] Positioning the award
+- [x] How does fixed positioning work?
+- [x] Putting the coupon on the page
+- [x] Putting the coupon on the page
+- [x] Using a negative left property value
+- [x] A rather positive, negative test drive
 
 ### 12. HTML5 Markup: Modern HTML
 Rethinking HTML structure
