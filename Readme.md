@@ -426,40 +426,40 @@ Safari&#174; Books Online
 - [x] A rather positive, negative test drive
 
 ### 12. HTML5 Markup: Modern HTML
-Rethinking HTML structure
-Modern Starbuzz
-Update your Starbuzz HTML
-Test driving the new ride
-Before you continue...
-How to update your CSS for the new elements
-Test drive #2
-Building the Starbuzz blog page
-Setting up the CSS for the blog page
-Test drive the blog page
-We still need to add a date to the blog...
-Adding the <time> element to your blog
-Test drive the blog
-How to add more <header> elements
-Testing the header
-So, what’s wrong with the header anyway?
-A final test drive for the headers
-Completing the navigation
-Adding the navigation CSS
-Who needs GPS? Giving the navigation a test drive
-Adding a <nav> element...
-Making our CSS more specific...
-Ta-da! Look at that navigation!
-Creating the new blog entry
-And now, introducing the <video> element
-Lights, camera, action...
-How does the <video> element work?
-Closely inspecting the video attributes...
-What you need to know about video formats
-The video format contenders
-How to juggle all those formats...
-Take 2: lights, camera, action...
-How to be even more specific with your video formats
-Update and test drive
+- [x] Rethinking HTML structure
+- [x] Modern Starbuzz
+- [x] Update your Starbuzz HTML
+- [x] Test driving the new ride
+- [x] Before you continue...
+- [x] How to update your CSS for the new elements
+- [x] Test drive #2
+- [x] Building the Starbuzz blog page
+- [x] Setting up the CSS for the blog page
+- [x] Test drive the blog page
+- [x] We still need to add a date to the blog...
+- [x] Adding the <time> element to your blog
+- [x] Test drive the blog
+- [x] How to add more <header> elements
+- [x] Testing the header
+- [x] So, what’s wrong with the header anyway?
+- [x] A final test drive for the headers
+- [x] Completing the navigation
+- [x] Adding the navigation CSS
+- [x] Who needs GPS? Giving the navigation a test drive
+- [x] Adding a <nav> element...
+- [x] Making our CSS more specific...
+- [x] Ta-da! Look at that navigation!
+- [x] Creating the new blog entry
+- [x] And now, introducing the <video> element
+- [x] Lights, camera, action...
+- [x] How does the <video> element work?
+- [x] Closely inspecting the video attributes...
+- [x] What you need to know about video formats
+- [x] The video format contenders
+- [x] How to juggle all those formats...
+- [x] Take 2: lights, camera, action...
+- [x] How to be even more specific with your video formats
+- [x] Update and test drive
 
 ### 13. Tables and More Lists: Getting Tabular
 How do you make tables with HTML?

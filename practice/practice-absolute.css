@@ -1,0 +1,89 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    background-color:#86c6eb;
+    font-size: small;
+}
+
+
+
+
+
+#header {
+    margin: 10px;
+    font-size: 120%;
+    color: green;
+    border-style: solid;
+    border-color: white;
+    border-width: thin;
+    padding: 30px 30px 30px 200px;
+    background-color: #bcc1d1;
+    background-image: url(images/winter.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    height: 130px;
+   
+} 
+
+h1 {
+    font-size: 200%;
+    color: brown;
+}
+
+#header h1 {
+    color: green;
+}
+
+
+
+#sidebar { 
+    margin: 0px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color:#bcc1d1;
+    border-width: thin;
+    text-align: center;
+    background-color: white;
+    
+    position: absolute;
+    top: 212px;
+    right: 10px;
+    width: 200px;
+    
+    
+}
+
+#sidebar #blueberry {
+    font-family: Cursive;
+    font-style: italic;
+    color: blue;
+
+}
+
+#main {
+    margin: 10px 240px 10px 10px;
+    padding: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: thin;
+    text-align: left;
+
+}
+
+#main img {
+    width: 200px;
+}
+
+#footer {
+    font-size: 70%;
+    margin: 10px;
+    padding: 0px ;
+    border: thin dashed white;
+    line-height: 0.5;
+    font-style: italic;
+    text-align: center;
+    background-color: #bcc1d1;
+    clear: right;
+
+
+}

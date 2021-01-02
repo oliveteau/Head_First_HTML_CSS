@@ -1,0 +1,98 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    background-color:#86c6eb;
+    font-size: small;
+}
+
+
+#tableContainer {
+    display: table;
+  
+}
+
+#tableRow {
+    display: table-row;
+}
+
+#header {
+    display: table-cell;
+    /*margin: 10px;*/
+    font-size: 120%;
+    color: green;
+    border-style: solid;
+    border-color:black;
+    border-width: thin;
+    padding: 30px 10px 10px 10px;
+    background-color: #bcc1d1;
+    background-image: url(images/winter.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100px;
+    height: 130px;
+    vertical-align: top;
+   
+} 
+
+h1 {
+    font-size: 200%;
+    color: brown;
+}
+
+#header h1 {
+    color: green;
+}
+
+
+
+#sidebar { 
+    display: table-cell;
+    /*margin: 0px 10px 10px 10px;*/
+    padding: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color:black;
+    border-width: thin;
+    text-align: center;
+    background-color: white;
+    vertical-align: top;
+    width: auto;
+    
+}
+
+#sidebar #blueberry {
+    font-family: Cursive;
+    font-style: italic;
+    color: blue;
+    
+
+}
+
+#main {
+    display: table-cell;
+    /*margin: 0px 10px 10px 10px;*/
+    padding: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    text-align: left;
+    vertical-align: top;
+
+}
+
+#main img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#footer {
+    font-size: 70%;
+    margin: 10px 0px 0px 0px;
+    padding: 0px ;
+    border: thin dashed white;
+    line-height: 0.5;
+    font-style: italic;
+    text-align: center;
+    background-color: #bcc1d1;
+    clear: right;
+
+
+}
