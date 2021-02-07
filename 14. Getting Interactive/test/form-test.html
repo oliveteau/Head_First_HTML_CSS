@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Enter the Contest</title>
+    </head>
+
+    <body>
+        <form action="contest.php" method="POST">
+        
+            <p>Just type in your name (and click Submit) to enter the contest: <br><br>
+
+            <!-- Text Input -->
+            First name: <input type="text" name="firstname" value=""> <br>
+            Last name:  <input type="text" name="lastname" value=""> <br><br>
+
+            <!-- Radio Input -->
+            Hot or Not? <br>
+            <input type="radio" name="hotornot" value="hot"> <br>
+            <input type="radio" name="hotornot" value="not"> <br><br>
+
+            <!-- Checkbox Input -->
+            What spices? <br>
+            <input type="checkbox" name="spice" value="salt"> <br>
+            <input type="checkbox" name="spice" value="Pepper"> <br>
+            <input type="checkbox" name="spice" value="Garlic"> <br><br>
+
+            <!-- Number Input (HTML5) -->
+            How many items to get?
+            <input type="number" min="5" max="11"> <br><br>
+
+            <!-- Range Input (HTML5) -->
+            How would you rate us?
+            <input type="range" min="0" max="10" step="1"> <br><br>
+
+            <!-- Color Input (HTML5) -->
+            What is your favorite color?
+            <input type="color"> <br><br>
+
+            <!-- Date Input (HTML5) -->
+            What is your DOB?
+            <input type="date"> <br><br>
+
+            <!-- email input (HTML5) -->
+            What is your email?
+            <input type="email"> <br><br>
+
+            <!-- tel input (HTML5) -->
+            What is your phone number?
+            <input type="tel"> <br><br>
+
+            <!-- url input (HTML5) -->
+            What is your favorite website?
+            <input type="url"> <br><br>
+
+            <!-- Select + Option Elements -->
+            What preferred Character?
+            <select name="characters">
+                <option value="Buckaroo">Buckaroo Banzai</option>
+                <option value="Tommy">Perfect Tommy</option>
+            </select> <br><br>
+
+            <!-- Text Area -->
+            Any more comment? <br>
+            <textarea name="comments" rows="10" cols="48">Enter your comment</textarea> <br><br>
+
+            <!-- Submit Input -->
+            <input type="submit">
+            </p>
+        </form>
+    </body>
+</html>

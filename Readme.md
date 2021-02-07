@@ -462,64 +462,64 @@ Safari&#174; Books Online
 - [x] Update and test drive
 
 ### 13. Tables and More Lists: Getting Tabular
-How do you make tables with HTML?
-Creating a table with HTML
-What the browser creates
-Tables dissected
-Adding a caption
-Test drive...and start thinking about style
-Before we start styling, let’s get the table into Tony’s page
-Now let’s style the table
-Taking the styled tables for a test drive
-Getting those borders to collapse
-How about some color?
-How about some color in the table rows?
-Did we mention that Tony made an interesting discovery in Truth or Consequences, New Mexico?
-Another look at Tony’s table
-How to tell cells to span more than one row
-Test drive the table
-Trouble in paradise?
-Test driving the nested table
-Overriding the CSS for the nested table headings
-Giving Tony’s site the final polish
-Giving the list some style
-What if you want a custom marker?
-And, the final test drive...
+- [x] How do you make tables with HTML?
+- [x] Creating a table with HTML
+- [x] What the browser creates
+- [x] Tables dissected
+- [x] Adding a caption
+- [x] Test drive...and start thinking about style
+- [x] Before we start styling, let’s get the table into Tony’s page
+- [x] Now let’s style the table
+- [x] Taking the styled tables for a test drive
+- [x] Getting those borders to collapse
+- [x] How about some color?
+- [x] How about some color in the table rows?
+- [x] Did we mention that Tony made an interesting discovery in Truth or Consequences, New Mexico?
+- [x] Another look at Tony’s table
+- [x] How to tell cells to span more than one row
+- [x] Test drive the table
+- [x] Trouble in paradise?
+- [x] Test driving the nested table
+- [x] Overriding the CSS for the nested table headings
+- [x] Giving Tony’s site the final polish
+- [x] Giving the list some style
+- [x] What if you want a custom marker?
+- [x] And, the final test drive...
 
 ### 14. HTML Forms: Getting Interactive
-How forms work
-How forms work in the browser
-What you write in HTML
-What the browser creates
-How the <form> element works
-What can go in a form?
-What can go in a form? (part 2)
-Oh, even more can go in a form!
-Getting ready to build the Bean Machine form
-Figuring out what goes in the form element
-Adding the <form> element
-How form element names work
-Back to getting those input elements into your HTML
-A form-al test drive
-Adding some more input elements to your form
-Adding the select element
-Test driving the <select> element
-Give the customer a choice of whole or ground beans
-Punching the radio buttons
-Using more input types
-Adding the number and date input types
-Test driving the number and date input elements
-Completing the form
-Adding the checkboxes and text area
-The final form test drive
-Watching GET in action
-Getting the form elements into HTML structure for table display layout
-Styling the form with CSS
-Test drive the styled form
-A word about accessibility
-What more could possibly go into a form?
-More things that can go in a form
-Congratulations! You made it to the end
+- [x] How forms work
+- [x] How forms work in the browser
+- [x] What you write in HTML
+- [x] What the browser creates
+- [x] How the <form> element works
+- [x] What can go in a form?
+- [x] What can go in a form? (part 2)
+- [x] Oh, even more can go in a form!
+- [x] Getting ready to build the Bean Machine form
+- [x] Figuring out what goes in the form element
+- [x] Adding the <form> element
+- [x] How form element names work
+- [x] Back to getting those input elements into your HTML
+- [x] A form-al test drive
+- [x] Adding some more input elements to your form
+- [x] Adding the select element
+- [x] Test driving the <select> element
+- [x] Give the customer a choice of whole or ground beans
+- [x] Punching the radio buttons
+- [x] Using more input types
+- [x] Adding the number and date input types
+- [x] Test driving the number and date input elements
+- [x] Completing the form
+- [x] Adding the checkboxes and text area
+- [x] The final form test drive
+- [x] Watching GET in action
+- [x] Getting the form elements into HTML structure for table display layout
+- [x] Styling the form with CSS
+- [x] Test drive the styled form
+- [x] A word about accessibility
+- [x] What more could possibly go into a form?
+- [x] More things that can go in a form
+- [x] Congratulations! You made it to the end
 
 ### A. Leftovers: The Top Ten Topics (We Didn’t Cover)
 #1 More CSS selectors
@@ -544,35 +544,6 @@ Index
 About the Authors
 Colophon
 Copyright
-
-
-7.  WORK ON PROJECT:
-    
-    ### If just starting project:
-      * MOVE ENTIRE CONTENT OF OUTER **/mysite** folder in root project folder 'DjPrTuto1' (Should not be needed if created the project with following command: `$ django-admin startproject mysite .`)
-      * Then FOLLOW THE [PROJECT INSTRUCTIONS](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-      * Right click on "DjPrTuto1" => *git bash here*
-      * In the git bash console: `git init`
-      * In the git bash console: `git remote add origin https://github.com/oliveteau/DjPrTuto1`
-      * In the git bash console: `git add .`
-      * In the git bash console: `git commit -m 'comment...'`
-      * In the git bash console: `git push -u origin master`
-  
-    ### If working on existing project (already in remote repository):
-      * Access from same PC:
-          - In the git bash console: `git pull origin master`
-          - Continue existing project [PROJECT INSTRUCTIONS](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-          - In the git bash console: `git add .`
-          - In the git bash console: `git commit -m 'comment...`
-          - In the git bash console: `git push -u origin master`
-
-      * Access from new PC:
-          - In the git bash console: `git clone https://github.com/oliveteau/DjPrTuto1`
-          - Continue existing project [PROJECT INSTRUCTIONS](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-          - In the git bash console: `git add .`
-          - In the git bash console: `git commit -m 'comment...'`
-          - In the git bash console: `git push -u origin master`
-
 
 
 
